@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project Overview                                     | Project Repository         |
 |-----------------------------------------------|----------------------------|
-| Offensive and Defensive Home Lab          | <a href="https://google.com">Home Lab Lab</a>|
+| Offensive and Defensive Home Lab with Kali, Ubuntu, Windows, and Splunk         | <a href="https://google.com">Home Lab</a>|
 
 
 
