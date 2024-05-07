@@ -1,5 +1,5 @@
 # Hello, I'm Steve Jawns
-<a href="[https://linkedin.com](https://www.linkedin.com/in/stephen-clarke-293324240/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com](https://www.linkedin.com/in/stephen-clarke-293324240/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
