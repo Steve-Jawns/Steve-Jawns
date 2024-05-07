@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project Overview                                     | Project Repository         |
 |-----------------------------------------------|----------------------------|
-| Project 1 Description        | <a href="https://google.com">Repo</a>|
+| Project 1 Description        | <center><a href="https://google.com">Repo</a></center>|
 
 
 
