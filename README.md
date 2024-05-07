@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Project Overview                                     | Project Repository         |
 |-----------------------------------------------|----------------------------|
-| Network Attached Storage with RAID configuration        | <center><a href="https://google.com">Repo</a></center>|
+| Raspberry Pi - NAS with RAID Configuration        | <center><a href="https://google.com">Repo</a></center>|
 | Project 1 Description        | <center><a href="https://google.com">Repo</a></center>|
 | Project 1 Description        | <center><a href="https://google.com">Repo</a></center>|
 | Project 1 Description        | <center><a href="https://google.com">Repo</a></center>|
